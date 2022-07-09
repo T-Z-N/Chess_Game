@@ -1,0 +1,3 @@
+C:\Users\STA-G\Desktop\Chess\ches\ches\x64\Debug\ches.exe
+C:\Users\STA-G\Desktop\Chess\Alican\ches\x64\Debug\ches.exe
+C:\Users\STA-G\Desktop\Chess\Alican_2\ches\x64\Debug\Aliconcon.exe
